@@ -55,4 +55,5 @@ Additional features have been added in version 1.0.8 of Snap0x, including:
 ### How long is the license key ?
 
 The period is 30 days, and it is activated after completing your payment through our official website, and the license is sent to you via the email registered in the account within a few seconds [ByE ThoST](https://bye-thost.com/product/snap0x-ios-android/) 
-
+    
+h
